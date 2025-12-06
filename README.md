@@ -5,14 +5,16 @@
   
    [<img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />](https://huggingface.co/Suman2004)
 
+- ### GitHub Stats:
 
 | . | . | . |
 |-----|------|------|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumanRoy004&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumanRoy004&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumanRoy004&theme=dracula)|
 
+- ### LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sumaan004?ext=contest&theme=dark)](https://leetcode.com/Sumaan004)
 
-### Connect with me:
+- ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
