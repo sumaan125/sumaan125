@@ -1,15 +1,9 @@
-
-
-
 - 👋 Hi, I’m Suman
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Generative AI, Finetunning LLM with unsloth library and Langchain framework.
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
+- 🌱 I’m currently learning Generative AI, Finetuning LLM with unsloth library and Langchain framework.
+- 👀 Finetuned models and datasets are available:
+  
+   [<img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />](https://huggingface.co/Suman2004)
 
 
 | . | . | . |
@@ -20,11 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Suman | LinkedIn" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][linkedin]
-[<img align="left" alt="Suman | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
+[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
+
+<br clear="both"/>
 
 [linkedin]: https://www.linkedin.com/in/sumanroy2004/
 [gmail]: mailto:sumanroy200400@gmail.com
-
-
-
